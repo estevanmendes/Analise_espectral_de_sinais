@@ -1,7 +1,7 @@
 # Análise Espectral de Sinais
 
 
-Esta análise é a resposta a um desafio, onde nos fora fornecido dados da aceleração nos 3 eixos do compressor de uma geladeira. 
+Esta análise é a resposta à um desafio, onde foi fornecido dados da aceleração dos 3 eixos do compressor de uma geladeira. 
 Três tarefas estavam inclusas:
 1. Análise espectral, e a determinação de qual era a frequencia em RPM do motor;
 2. Criação de uma algoritmo para determinar quanto tempo o motor estava ligado e desligado.
